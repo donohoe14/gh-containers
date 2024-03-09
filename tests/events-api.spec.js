@@ -1,5 +1,5 @@
 // @ts-check
-import { test, expect } from '@playwright/test';
+ import { test, expect } from '@playwright/test';
 
 test('event creation', async ({ request }) => {
   const testTitle = 'Test event';
